@@ -1,4 +1,4 @@
-# comp1711
-initial repository for COMP1711 materials 
+# Comp1711
+## Initial Repository for COMP1711 Materials 
 
-Alp Akkor
+Alp Akkor 
