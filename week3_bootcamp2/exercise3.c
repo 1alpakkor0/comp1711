@@ -1,3 +1,4 @@
+//Grade Checker with Distinction
 #include <stdio.h>
 
 int main(){
