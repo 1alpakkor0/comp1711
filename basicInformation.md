@@ -1,6 +1,6 @@
 # HOW TO MAKE CHANGES IN GITHUB
 git status
-+ Lists all new or modified files to be commited
++ Lists all new or modified files to be commited.
 
 git add [file]
 + Snapshots the file in preparation for versioning
